@@ -20,14 +20,14 @@ The trained models are later integrated into **nonlinear model predictive contro
 ## 🚀 Getting started
 
 The repository contains two main directories at the root level:
-
-├── H2DFmodel
-│ ├── Scripts # Training scripts (run from here, MATLAB root)
-│ ├── Functions # Helper functions for preprocessing and training
-│ ├── Plots # Generated plots (matlab2tikz / .fig / .png)
-│ └── Results # Trained models, performance metrics, evaluation plots
-└── data # Experimental datasets (concatenated and split into train/val/test)
-
+The repository contains three directories at the root level:
+                    
+    ├── data   # Experimental datasets (concatenated and split into train/val/test)                 
+    ├── H2DFmodel                     
+        ├── Scripts   # Training scripts (run from here, MATLAB root)                 
+        ├── Functions   # Helper functions for preprocessing and training                  
+        ├── Plots   # Generated plots (matlab2tikz / .fig / .png)
+        └── Results   # Trained models, performance metrics, evaluation plots
 
 ---
 
