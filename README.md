@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/66250946.svg)](https://zenodo.org/badge/latestdoi/66250946)
 
-This repository contains MATLAB® code to train deep neural networks (DNNs) and gated recurrent unit (GRU)-based models for the **Hydrogen–Diesel Dual-Fuel (H₂DF) project at the University of Alberta (UofA)**.  
+This repository contains MATLAB® code to train deep neural networks (DNNs) and gated recurrent unit (GRU)-based models for the **Hydrogen–Diesel Dual-Fuel (H2DF) project at the University of Alberta (UofA)**.  
 The models are based on experimental data from the **4.5 L Hydrogen–Diesel Engine** at the **MECE Engine Lab, Edmonton**, where **pseudo-random binary sequence (PRBS)** signals were used to excite the actuators.  
 
 > **PRBS** inputs are widely used in system identification as they provide persistently exciting excitation patterns, enabling reliable training data collection across the full operating space.  
