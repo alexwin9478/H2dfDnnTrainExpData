@@ -10,10 +10,10 @@ The models are based on experimental data from the **4.5 L Hydrogen–Diesel Eng
 The trained models are later integrated into **nonlinear model predictive control (NMPC)** frameworks for advanced combustion control.  
 
 **Authors:** 
-- **Alexander Winkler**(alexander.winkler@rwth-aachen.de)
-- Vasu Sharma(vasu.sharma@rwth-aachen.de)
-- David Gordon(dgordon@ualberta.ca)
-- Armin Norouzi(arminnorouzi2016@gmail.com)                     
+- **Alexander Winkler** (alexander.winkler@rwth-aachen.de)
+- Vasu Sharma (vasu.sharma@rwth-aachen.de)
+- David Gordon (dgordon@ualberta.ca)
+- Armin Norouzi (arminnorouzi2016@gmail.com)                     
 
 ---
 
@@ -22,7 +22,7 @@ The trained models are later integrated into **nonlinear model predictive contro
 The repository contains two main directories at the root level:
 The repository contains three directories at the root level:
                     
-    ├── data   # Experimental datasets (concatenated and split into train/val/test)                 
+    ├── data   # Experimental data                  
     ├── H2DFmodel                     
         ├── Scripts   # Training scripts (run from here, MATLAB root)                 
         ├── Functions   # Helper functions for preprocessing and training                  
