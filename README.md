@@ -1,5 +1,7 @@
 # Deep Neural Network (DNN) Training for H2DF Engine Models
 
+[![DOI](https://zenodo.org/badge/66250946.svg)](https://zenodo.org/badge/latestdoi/66250946)
+
 This repository contains MATLAB® code to train deep neural networks (DNNs) and gated recurrent unit (GRU)-based models for the **Hydrogen–Diesel Dual-Fuel (H₂DF) project at the University of Alberta (UofA)**.  
 The models are based on experimental data from the **4.5 L Hydrogen–Diesel Engine** at the **MECE Engine Lab, Edmonton**, where **pseudo-random binary sequence (PRBS)** signals were used to excite the actuators.  
 
@@ -87,7 +89,8 @@ If you are using this code or the trained models, please cite the publications:
 
 - [Dummy1]  
 - [Dummy2]  
-- The experimental dataset publication on **Zenodo**  
+- The data publication on **Zenodo**:
+[![DOI](https://zenodo.org/badge/66250946.svg)](https://zenodo.org/badge/latestdoi/66250946)
 
 ---
 
